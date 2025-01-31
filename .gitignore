@@ -5,24 +5,3 @@ DerivedDataCache/
 *.log
 
 
-#TEST SECTION FOR PLUGINS
-# Visual Studio 2015 user specific files
-.vs/
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
