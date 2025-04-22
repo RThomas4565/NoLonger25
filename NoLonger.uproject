@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "PCG",
-			"Enabled": true
-		},
-		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
 		},
@@ -28,6 +24,19 @@
 			"Name": "BlockoutToolsPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d337b97aca8947a893526964e179acfd"
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "USDImporter",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }
